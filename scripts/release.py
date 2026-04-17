@@ -241,6 +241,7 @@ AUTHOR_MAP = {
     "yuewang1@microsoft.com": "imink",
     "1736355688@qq.com": "hedgeho9X",
     "bernylinville@devopsthink.org": "bernylinville",
+    "code@booze.dog": "boozedog",
 }
 
 
